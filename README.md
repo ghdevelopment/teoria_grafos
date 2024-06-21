@@ -7,7 +7,7 @@ Aluno: Guilherme Honório Caetano
 
 *AVISOS*
 
--O código foi implementado para utilização de lista de adjacência.
+-O código foi implementado com a utilização de listas de adjacência.
 
 -Além do código, deixei alguns dos arquivos de teste que utilizei para testar o algoritmo.
 -Para executar o algoritmo, basta colocar os "arquivos.txt" e o "arquivo.cpp" com o código na mesma pasta,
