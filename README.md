@@ -1,4 +1,4 @@
-# teoria_grafos
+# Teoria de Grafos
 Repositório criado para colocar o algoritmo de Dijkstra realizado para a matéria Teoria de Grafos
 ministrada pelo professor André da Cunha Ribeiro.
 
