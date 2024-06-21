@@ -82,8 +82,7 @@ bool readGraphFromFile(const string &filename, vector<vector<pair<int, int>>> &G
     return !hasNegativeWeight;
 }
 
-// Algoritmo de Dijkstra
-// Algoritmo de Dijkstra
+
 // Algoritmo de Dijkstra
 void dijkstra(vector<vector<pair<int, int>>> &G, int s, vector<VertexInfo> &vertexInfo)
 {
